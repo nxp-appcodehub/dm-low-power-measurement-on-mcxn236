@@ -1,0 +1,17 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 9.2_2\arm\bin\armPROC.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 9.2_2\arm\bin\armJET.dll" 
+
+"C:\NXP work\APP Code Hub\dm-low-power-measurement-on-mcxn236\Debug\low_power_measurement.out" 
+
+--plugin="C:\Program Files\IAR Systems\Embedded Workbench 9.2_2\arm\bin\armLibSupportUniversal.dll" 
+
+--device_macro="C:\Program Files\IAR Systems\Embedded Workbench 9.2_2\arm/config/debugger/NXP/MCXN23x.dmac" 
+
+--device_macro="C:\Program Files\IAR Systems\Embedded Workbench 9.2_2\arm/config/debugger/NXP/MCXN23x_Trace.dmac" 
+
+--flash_loader="C:\Program Files\IAR Systems\Embedded Workbench 9.2_2\arm/config/flashloader/NXP/FlashMCXN2.board" 
+
+
+
+

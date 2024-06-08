@@ -1,0 +1,24 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="dm-low-power-measurement-on-mcxn236" type="demo" format="projectfile" versionSchema="1.0.0" name="low power measurement on mcxn236">
+    <display_title>
+        low power measurement on mcxn236
+    </display_title>
+    <overview>
+        <![CDATA[The low power measurement demo is used to reproduce the power consumption and wake-up time in the datasheet on the FRDM-MCXN236 board.]]>
+    </overview>
+    <toolchains>
+        <toolchain name="iar"></toolchain>
+    </toolchains>
+    <families>
+        <family name="mcx"></family>
+    </families>
+    <nxp_compatible_hw>
+        <hw id="FRDM-MCXN236"></hw>
+    </nxp_compatible_hw>
+    <peripherals>
+        <peripheral name="clocks"></peripheral>
+        <peripheral name="uart"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="low_power"></category>
+    </categories>
+</data:item>
